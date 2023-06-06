@@ -2,6 +2,8 @@
 
 Repository for RL-based Mountain Car problem-solving.
 
+![MC](MC.gif)
+
 ## About
 
 This repository contains an advanced and professional Jupyter Notebook file named `CarMountain.ipynb` that focuses on solving the Mountain Car problem using reinforcement learning (RL) techniques. The goal of this problem is to train an agent to navigate a car to reach the top of a mountain by applying suitable RL algorithms.
