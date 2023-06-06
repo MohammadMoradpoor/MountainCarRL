@@ -31,7 +31,7 @@ The following dependencies are required to run the code:
 
 - Python 3.6+
 - Jupyter Notebook
-- RL libraries (e.g., TensorFlow, PyTorch, or OpenAI Gym)
+- RL libraries (e.g., TensorFlow, OpenAI Gym)
 
 Make sure you have these dependencies installed before running the code.
 
