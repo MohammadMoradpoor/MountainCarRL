@@ -19,9 +19,10 @@ The repository has the following structure:
 To get started with this repository, follow these steps:
 
 1. Clone the repository:
-```
-git clone https://github.com/your-username/MountainCarRL.git
-```
+
+    ```
+    git clone https://github.com/MohamadsalehMoradpoor/MountainCarRL.git
+    ```
 
 2. Open the `CarMountain.ipynb` notebook using Jupyter or any compatible environment.
 
